@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="home">Home</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">REGISTER</string>
+    <string name="add">ADD</string>
+    <string name="updateprofile">UPDATE PROFILE</string>
+    <string name="ProfileManagement">Driver Management</string>
+    <string name="dateofbirth">Date of Birth</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="editProfile">Edit Driver Profile</string>
+    <string name="search">SEARCH</string>
+    <string name="edit">EDIT</string>
+    <string name="delete">DELETE</string>
+    <string name="gender">Gender</string>
+</resources>
